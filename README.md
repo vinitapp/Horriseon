@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/vinitapp/Horriseon">
-    <img src="assets/images/homescreen.png" alt="Logo" width="80" height="80">
+    <img src="assets/images/homescreen.png" alt="homescreen" width="200" height="200">
   </a>
 
   <h3 align="center">README-Template</h3>
@@ -85,16 +85,11 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/vinitapp/Horriseon/blob/main/assets/images/seo.jpg)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Horriseon is a marketing agency. As a front-end and junior developer the most common task is to take the existing code and refactor it to meet certain set of standards or to implement new technology.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+While designing a website, there are certain considerations such as:
+* Web accessibility- is an increasingly important condideration for the businesses which ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards.
+* Accessible site should be better positioned in search engines.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,7 +97,7 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This project is built using 
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -112,6 +107,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
+* [![HTML5][Html5.com]][html5-url]
+* [![CSS3][Css3.com]][css3-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -268,3 +265,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[Html5-url]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
+[Css3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
