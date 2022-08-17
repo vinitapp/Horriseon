@@ -99,6 +99,14 @@ While designing a website, there are certain considerations such as:
 
 This project is built using 
 
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 * [![Html5][Html5.com]][Html5-url]
 * [![Css3][Css3.com]][Css3-url]
 
@@ -259,5 +267,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [JQuery-url]: https://jquery.com 
 [Html5-url]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 [Css3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[Html5.com]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
-[Css3.com]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[Html5.com]: assets/images/html.png
+[Css3.com]: assets/images/css.png
