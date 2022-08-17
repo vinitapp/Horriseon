@@ -3,7 +3,7 @@ body {
   margin: 0%;
   background-color: #d9dcd5;
 }
-
+/*Navigation bar*/
 .topnav {
   height: 80px;
 }
@@ -30,7 +30,7 @@ li a {
   font-size: 18px;
   text-decoration: none;
 }
-
+/*text on the cards*/
 .seo1 {
   position: static;
   width: 1025px;
@@ -128,7 +128,7 @@ li a {
   margin-top: 40px;
   margin-left: 40px;
 }
-
+/*Side vertical card*/
 .sidecol {
   position: static;
   width: 350px;
@@ -153,13 +153,14 @@ p {
   color: #fefdfc;
   padding: 20px;  
 }
+/*Icons for the side Vertical cards*/
 #icon {
   display: block;
   margin-left: auto;
   margin-right: auto;
   margin-top: -20px;
 }
-
+/*Company Logo*/
 h1 {
   display: inline;
   font-size: 48px;
